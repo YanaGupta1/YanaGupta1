@@ -1,5 +1,5 @@
 <h2 align="center">
-Hi there 👋 I'm Yana.
+Hi👋, I'm Yana.
 </h2>
 
 
