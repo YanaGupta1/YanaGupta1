@@ -13,3 +13,4 @@ Hi👋, I'm Yana.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/yanagupta_1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yana-gupta/) 
 
 
+[![](https://visitcount.itsvg.in/api?id=ImAnshuJoshi&icon=0&color=0)](https://visitcount.itsvg.in)
